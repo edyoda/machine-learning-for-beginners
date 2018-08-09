@@ -1,0 +1,5 @@
+{'counties': [{'name': 'Dade', 'population': 12345},
+   {'name': 'Palm Beach', 'population': 60000}],
+  'info': {'governor': 'Rick Scott'},
+  'shortname': 'FL',
+  'state': 'Florida'}
